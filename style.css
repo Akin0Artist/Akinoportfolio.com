@@ -290,3 +290,11 @@ img{
         font-weight: 600;
     }
 }
+@media (max-width:641px){
+    .main{
+        padding-top: 100px;
+    }
+    body{
+        font-size: 12px;
+    }
+}
